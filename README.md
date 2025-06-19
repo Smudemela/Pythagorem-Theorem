@@ -1,0 +1,1 @@
+Made pythagoren theorem file.
