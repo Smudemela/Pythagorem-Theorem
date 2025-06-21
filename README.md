@@ -3,7 +3,7 @@ Hy·pot·e·nuse Cal·cu·la·tor /hīˈpädnˌyo͞os ˈkalkyəˌlādər/ noun
 
 a program that calculates the length of the hypotenuse (the longest side) of a right-angled triangle using the Pythagorean Theorem:
 
-#### A**2 + B**2 = C**2
+#### A^2 + B^2 = C^2
  
 The result is the square root of the sum of the squares of the other two sides.
 
